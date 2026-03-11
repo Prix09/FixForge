@@ -1,46 +1,37 @@
-# 🛠️ Metro Fasteners - Nuts & Bolts Catalog Website
+# FixForge - Industrial Nut & Bolt Catalog
 
-**Tagline**: *Fastening Dreams.*
+FixForge is a modern, responsive industrial product catalog interface designed for efficient product exploration and management. Built with Next.js, TypeScript, and Tailwind CSS, it features high-performance filtering, structured layouts, and an optimized user experience.
 
-This is a clean, professional multi‑page catalog website developed for **Metro Fasteners**, a wholesale business for nuts and bolts. The site allows users to explore a wide range of fastening products with size variants, material types, and specifications tailored for industrial needs.
+## Features
 
-## 🌐 Features
+- **Dynamic Product Listing**: A clean and intuitive UI for browsing a wide range of industrial nuts and bolts.
+- **Advanced Filtering**: Categorize and filter products seamlessly to find exactly what you need.
+- **Responsive Design**: Fully optimized for desktops, tablets, and mobile devices.
+- **Reusable Components**: Built with a modular architecture for scalability and maintainability.
+- **Next-level Performance**: Leveraging Next.js for fast load times and smooth navigation.
 
-- ✅ Homepage with brand identity and mission
-- 🧩 Products Page showing available **Nuts** and **Bolts** with toggle for size units (inches/mm)
-- 📊 Size-wise product range display
-- 🧰 Tailwind CSS + TypeScript + Vite setup
-- ⚙️ Fully responsive and accessible design
+## Tech Stack
 
-## 🚀 Tech Stack
+- **Frontend**: Next.js, React, TypeScript
+- **Styling**: Tailwind CSS
+- **Build Tool**: Vite / Turbo
+- **Deployment**: Vercel
 
-- **React** (with TypeScript)
-- **Vite** (frontend bundler)
-- **Tailwind CSS** (styling)
-- **Lucide Icons** (modern UI icons)
-- **PostCSS** for CSS transformation
+## Getting Started
 
-
-## 📁 Project Structure
-├── public/ # Static assets
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Home, Product pages
-│ ├── data/ # Nut and Bolt size data
-│ └── App.tsx # Root component
-├── tailwind.config.js # Tailwind configuration
-├── vite.config.ts # Vite bundler setup
-├── tsconfig.json # TypeScript configuration
-
-
-## 🛠️ Setup & Installation
-
-1. **Clone the repo**
+1. Clone the repository:
    ```bash
-   git clone https://github.com/Prix09/Nuts-Bolts.git
-   cd Nuts-Bolts
-2. **Install dependencies**
-    npm install
-3. **Run the development server**
-    npm run dev
-4. **Open http://localhost:5173/ in your browser to view the site.**
+   git clone https://github.com/Prix09/FixForge.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Author
+
+- **Priya Mishra** - [GitHub](https://github.com/Prix09)
